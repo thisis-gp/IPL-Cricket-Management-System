@@ -1,0 +1,30 @@
+Virat Kohli,Batsman,2000000
+Rohit Sharma,Batsman,1800000
+MS Dhoni,Wicketkeeper,1500000
+David Warner,Batsman,1700000
+Jasprit Bumrah,Bowler,1600000
+KL Rahul,Batsman,1900000
+Rishabh Pant,Wicketkeeper,1600000
+AB de Villiers,Batsman,2000000
+Kane Williamson,Batsman,1800000
+Steve Smith,Batsman,1700000
+Kagiso Rabada,Bowler,1900000
+Hardik Pandya,Allrounder,1800000
+Ben Stokes,Allrounder,2000000
+Ravindra Jadeja,Allrounder,1600000
+Shikhar Dhawan,Batsman,1700000
+Chris Gayle,Batsman,1800000
+Sunil Narine,Allrounder,1500000
+Andre Russell,Allrounder,2000000
+Ravichandran Ashwin,Bowler,1600000
+Aaron Finch,Batsman,1700000
+Yuzvendra Chahal,Bowler,1800000
+Jos Buttler,Wicketkeeper,1900000
+Trent Boult,Bowler,1600000
+Quinton de Kock,Wicketkeeper,1800000
+Faf du Plessis,Batsman,1700000
+Mayank Agarwal,Batsman,1900000
+Suryakumar Yadav,Batsman,2000000
+Dinesh Karthik,Wicketkeeper,1700000
+Rahul Tewatia,Allrounder,1600000
+Shreyas Iyer,Batsman,700000
